@@ -4,7 +4,6 @@
   font-family: "Arial", sans-serif;
 }
 
-
 .main {
   padding: 0 20px;
   background-color: #f8f8f8; /* Fundo claro para o conteúdo principal */
@@ -35,10 +34,6 @@
   justify-content: space-between;
   flex-wrap: wrap;
 }
-
-
-
-
 
 /* Adicionar destaque especial para a seção de conquistas principais */
 .featured {
