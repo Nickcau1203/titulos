@@ -9,7 +9,7 @@ const Card = ({ capa, textoAlt, titulo, ano, detalhes }) => {
             alt={textoAlt}
           />
         </div>
-        <div className={styles.trophyInfo}>""
+        <div className={styles.trophyInfo}>
           <h3>{titulo}</h3>
           <p className={styles.year}>{ano}</p>
           <p className={styles.details}>{detalhes}</p>
